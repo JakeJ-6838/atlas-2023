@@ -1,0 +1,42 @@
+{
+	"id": -1,
+	"name": "Logo of Rec Room",
+	"description": "Rec Room is a popular cross-platform social game!",
+	"links": {
+		"website": [
+			"https://rec.net"
+		],
+		"subreddit": [
+			"recroom"
+		],
+		"discord": [
+			"recroom"
+		]
+	},
+	"path": {
+		"161-252": [
+			[
+				-948,
+				-287
+			],
+			[
+				-940,
+				-287
+			],
+			[
+				-940,
+				-273
+			],
+			[
+				-948,
+				-273
+			]
+		]
+	},
+	"center": {
+		"161-252": [
+			-944,
+			-280
+		]
+	}
+}
