@@ -1,0 +1,40 @@
+{
+	"id": -1,
+	"name": "T+J",
+	"description": "Initials for a young couple in Washington :)\n\nTristan + Jake <3 \n\n(5/9/23)",
+	"links": {
+		"discord": [
+			"zd7w67s8Wk"
+		]
+	},
+	"path": {
+		"208-239": [
+			[
+				-951,
+				-310
+			],
+			[
+				-942,
+				-315
+			],
+			[
+				-940,
+				-310
+			],
+			[
+				-950,
+				-305
+			],
+			[
+				-951,
+				-308
+			]
+		]
+	},
+	"center": {
+		"208-239": [
+			-946,
+			-310
+		]
+	}
+}
